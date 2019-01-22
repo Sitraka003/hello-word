@@ -1,2 +1,3 @@
-# hello-word
-First test
+Hello-word
+
+This is my first repository
